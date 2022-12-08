@@ -79,7 +79,7 @@ fix()
 
 '''
 for now, you need to open the csv file that 'fix' made and change:
-	1. change the second coloum name to 'name'
-	2. add labeles to the 'tag' coloun (0/1)(benign or mallware)
-	3. add labeles to the 'category' coloun (0/1/2/3)(train / test)
+	1. change the second column name to 'name'
+	2. add labels to the 'tag' column (0/1)(benign or malware)
+	3. add labels to the 'category' column (0/1/2/3)(train/test)
 '''
