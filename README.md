@@ -2,8 +2,8 @@
 
 
 	
-*   how to use perm_ext.py
-*   for now, you need to open the csv file that 'fix' made and change:
+###   how to use perm_ext.py
+####   for now, you need to open the csv file that 'fix' made and change:
     1.  change the second column name to 'name'
     2.  add labels to the 'tag' column (0/1)(benign or malware)
     3.  add labels to the 'category' column (0/1/2/3)(train/test)
