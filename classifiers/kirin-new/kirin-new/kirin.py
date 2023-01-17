@@ -54,11 +54,6 @@ def run(data, reports_):
     print("Running kirin")
     # Set the number of features to use
     numOfFeatures = 110  # can change
-    # in DecisionTreeClassifier:
-    # 80->65, 85->64.2, 90->65, 95->64.5,
-    # 105->65.2,
-    # 110->65.6, 120->65, 130->64.4, 140->64.4,
-    # 100->65.2, 150->64.4, 200->64.4, 250->64, 300->63.8
 
     for group in range(NumOfTimes):
         mani_group = 0
